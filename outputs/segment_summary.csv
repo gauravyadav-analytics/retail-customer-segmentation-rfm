@@ -1,0 +1,5 @@
+Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Revenue_%,Customers_%
+At Risk,824,369.1,4.9,1928.9,1589384.3,9.1,14.0
+Champions,1482,20.4,15.7,8113.6,12024330.1,69.2,25.2
+Lost,1523,459.3,1.3,429.7,654426.7,3.8,25.9
+Loyal,2049,73.0,3.8,1516.2,3106663.1,17.9,34.9
